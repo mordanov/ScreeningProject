@@ -1,0 +1,2 @@
+class UrlLimitExceeded(Exception):
+    pass
